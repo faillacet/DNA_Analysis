@@ -55,7 +55,7 @@ public:
 		delete[] sums;
 		delete[] SD;
 		cout << "Dynamically allocated memory wiped." << endl;
-		cout << "See you later!";
+		cout << "See you later!" <<endl;
 	}
 };
 
